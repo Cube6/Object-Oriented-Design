@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Design-Patterns/bin/Debug/net5.0
+/Design-Patterns/obj
+/Design-Principles/bin/Debug/net5.0
+/Design-Principles/obj
+/.vs/Object-Oriented-Design/v16
