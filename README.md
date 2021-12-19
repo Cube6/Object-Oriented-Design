@@ -1,1 +1,1 @@
-Samples for Object-Oriented-Design
+Samples for Design patterns and Desing principles in .NET
